@@ -16,9 +16,9 @@ The purpose of this Act is to establish regulations that ensure fair competition
 
 ## Section 3: Definitions
 In this Act:
-1. **"Market Platform"** means any physical or digital venue, including but not limited to app stores, e-commerce sites, and physical retail spaces, where multiple entities, including the controlling entity, offer goods or services.
-2. **"Controlling Entity"** refers to any person or entity that has control over a Market Platform.
-3. **"Competitor"** refers to any person or entity other than the controlling entity that offers or seeks to offer goods or services on the Market Platform.
+1. **"Market Platform":** Refers to any physical or digital venue, device, or ecosystem, including but not limited to app stores, e-commerce sites, physical retail spaces, electronic devices, and software ecosystems, where goods or services are offered or accessed. This includes platforms where a controlling entity and/or multiple third-party entities offer or sell goods or services, and platforms or devices where a controlling entity may offer exclusive goods, services, or functionalities.
+2. **"Controlling Entity"**: Refers to any person or entity that has control over a Market Platform.
+3. **"Competitor"**: Refers to any person or entity other than the controlling entity that offers or seeks to offer goods or services on the Market Platform.
 
 ## Section 4: Prohibition of Unfair Competitive Practices
 ### (a) General Prohibition:
