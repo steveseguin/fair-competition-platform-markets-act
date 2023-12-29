@@ -1,4 +1,4 @@
-draft proposal v0.0.1
+draft proposal v0.0.2
 
 # Fair Competition in Platform Markets Act 2024
 
@@ -23,14 +23,15 @@ In this Act:
 ## Section 4: Prohibition of Unfair Competitive Practices
 ### (a) General Prohibition:
 It shall be unlawful for a Controlling Entity of a Market Platform to:
-1. Compete directly with other entities within its own Market Platform.
+1. Compete directly with other entities within its own Market Platform, except for products or services that are strictly necessary for the basic hardware functionality of the device.
 2. Engage in any practice that unfairly disadvantages competitors on its platform.
 
-### (b) Specific Prohibitions:
+### (b) Specific Prohibitions and Clarifications:
 Without limiting the generality of subsection (a):
-1. **Prohibition of Exclusive Technologies:** No Controlling Entity shall use proprietary technologies to gain an unfair advantage over competitors.
-2. **Transparency Requirement:** Controlling Entities must provide clear and accessible information regarding any competitive activities within their platform.
-3. **Equal Access:** Controlling Entities must ensure equal access to essential platform features and services for all competitors.
+1. **Necessary for Basic Hardware Functionality:** For the purposes of this Act, products or services deemed 'necessary for the basic operation of the platform or device' are limited to those that are essential for the physical functioning of the device (e.g., operating system, basic input/output systems, essential security features). This does not include applications or services where viable competitive alternatives can exist (e.g., web browsers, email clients).
+2. **Prohibition of Exclusive Application Restrictions:** Controlling Entities are prohibited from restricting the installation or use of competitive applications or services that are not essential for the basic hardware functionality of the device.
+3. **Transparency Requirement:** Controlling Entities must provide clear and accessible information regarding any competitive activities within their platform, including any restrictions placed on competitive applications or services.
+4. **Equal Access to Essential Services:** Controlling Entities must ensure equal access to essential platform features and services for all competitors.
 
 ## Section 5: Enforcement and Penalties
 ### (a) Enforcement:
@@ -45,11 +46,22 @@ Violation of any provision of this Act shall subject the Controlling Entity to:
 ## Section 6: Exceptions and Exemptions
 ### (a) Exceptions:
 This Act shall not apply to:
-1. Entities deemed essential for national security or public interest.
-2. Products or services that are essential for the basic function of the device or platform.
+1. **Essential Operations Exception:**
+   - **Initial Functionality Inclusion:** Products or services provided by the Controlling Entity that are necessary for the initial operation or basic functionality of the platform, device, or service upon purchase. This includes components like game controllers for a gaming console or basic headphones for an MP3 player, which are required to use the device in its intended form at the time of purchase.
+   - **Competitive Alternatives:** This exception does not extend to additional, non-essential products or services where competitive alternatives are feasible and practical. For instance, while including a standard game controller or basic headphones is permissible, offering enhanced versions of these accessories, which directly compete with third-party products, must not be given undue preferential treatment on the platform.
+2. **Public Interest Exception:** Entities or services deemed essential for national security, public safety, or other critical public interests.
 
-### (b) Exemptions:
-The Federal Trade Commission (FTC) may grant exemptions where it finds that the application of this Act would not serve the interests of fair competition.
+
+1. **Essential Operations Exception:**
+   - **Basic Functionality Inclusion:** Products or services provided by the Controlling Entity that are are required to use the device or platform in its intended form at the time of purchase. This includes core system applications like a basic camera to make use of the built-in hardware camera, or components like a standard game controller for a game console. However, these applications should not possess exclusive access to system capabilities that are not equally available to third-party apps and which can be fully removed or replaced as the user desires.
+   - **Non-Essential Applications:** This exception does not cover applications where competitive alternatives exist that can provide similar functionalities are are not required to make use of hardware functionality at time of purchase. These include, but are not limited to, cloud storage services, web browsers, and messaging apps.
+   - **User Choice and Default Settings:** Users must have the ability to choose their default applications for various services (e.g., web browsing, messaging) from a range of options, including third-party apps. Pre-installed applications should not be given undue advantage in terms of system integration and permissions that are not equally accessible to third-party applications.
+
+
+### (b) General Guidelines for Fair Platform Practices:
+1. **Equal Access and Non-Discrimination:** Controlling Entities must provide equal access and non-discriminatory treatment to all competitors on their platforms. This includes fair access to services, resources, and opportunities essential for competition.
+2. **Transparency in Operations:** Clear and accessible information must be provided regarding the criteria and policies that govern the operation of the platform, including how products or services are featured, prioritized, or restricted.
+3. **Fairness in Competition:** Controlling Entities are prohibited from leveraging their platform control to give undue advantage to their own products or services. This encompasses practices like preferential listing, exclusionary tactics, or manipulation of search results or recommendations.
 
 ## Section 7: Implementation and Review
 ### (a) Implementation:
