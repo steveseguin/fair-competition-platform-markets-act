@@ -1,3 +1,5 @@
+draft proposal v0.0.1
+
 # Fair Competition in Platform Markets Act 2024
 
 ## Section 1: Short Title
