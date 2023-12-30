@@ -72,7 +72,7 @@ Violation of any provision of this Act shall subject the Controlling Entity to:
 ### (a) Exceptions:
 This Act shall not apply to:
 1. **Essential Operations Exception:**
-   - **Initial Functionality Inclusion:** Products or services provided by the Controlling Entity that are necessary for the initial operation or basic functionality of the platform, device, or service upon purchase. This includes components like game controllers for a gaming console or basic headphones for an MP3 player, which are required to use the device in its intended form at the time of purchase.
+   - **Initial Functionality Inclusion:** Products or services provided by the Controlling Entity that are necessary for the initial operation or basic functionality of the platform, device, or service upon purchase. This includes components like game controllers for a gaming console or basic headphones for an MP3 player, which are required to use the device in its most basic intended form at the time of purchase.
    - **Competitive Alternatives:** This exception does not extend to additional, non-essential products or services where competitive alternatives are feasible and practical. For instance, while including a standard game controller or basic headphones is permissible, offering enhanced versions of these accessories, which directly compete with third-party products, must not be given undue preferential treatment on the platform.
 2. **Public Interest Exception:** Entities or services deemed essential for national security, public safety, or other critical public interests.
 
