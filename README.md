@@ -19,7 +19,7 @@ In this Act:
 1. **"Market Platform":** Refers to any physical or digital venue, device, or ecosystem, including but not limited to app stores, e-commerce sites, physical retail spaces, electronic devices, and software ecosystems, where goods or services are offered or accessed. This includes platforms where a controlling entity and/or multiple third-party entities offer or sell goods or services, and platforms or devices where a controlling entity may offer exclusive goods, services, or functionalities.
 2. **"Controlling Entity"**: Refers to any person or entity that has control over a Market Platform.
 3. **"Competitor"**: Refers to any person or entity other than the controlling entity that offers or seeks to offer goods or services on the Market Platform.
-4. **"Open Access":** Refers to the principle of allowing access to a Market Platform for all competitors. During an initial grace period for a newly developed platform, 'Open Access' acknowledges that while the platform is accessible, the controlling entity may retain certain advantages due to their initial investment and the evolving nature of the market. This access should aim to be as fair and reasonable as possible under the circumstances, and is expected to progressively move towards full fairness and non-discrimination as the market matures.
+4. **"Open Access":** Refers to the principle of allowing access to a Market Platform for all competitors.
 
 ## Section 4: Prohibition of Unfair Competitive Practices
 ### (a) General Prohibition:
