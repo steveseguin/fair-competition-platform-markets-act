@@ -23,8 +23,20 @@ In this Act:
 ## Section 4: Prohibition of Unfair Competitive Practices
 ### (a) General Prohibition:
 It shall be unlawful for a Controlling Entity of a Market Platform to:
-1. Compete directly with other entities within its own Market Platform, except for products or services that are strictly necessary for the basic hardware functionality of the device.
-2. Engage in any practice that unfairly disadvantages competitors on its platform.
+1. Compete directly with other entities within its own Market Platform, except in the following situations:
+   - **Integral Software and Hardware for Basic Operation:** Software and hardware that are integral to the basic operation of the device, subject to the following conditions:
+     - **Limited Scope for Software:** The software must provide only basic functionalities necessary for the operation of the hardware, without advanced features that might compete with third-party apps.
+     - **Basic Hardware Inclusion:** Hardware included with the device must be essential for its immediate functionality (e.g., basic headphones with an MP3 player, a standard stock controller with a gaming console). This does not extend to advanced or premium versions of these hardware items that directly compete with third-party products.
+     - **No Unfair Promotion:** The controlling entity must not unfairly promote or prioritize their basic software or hardware over third-party alternatives.
+     - **Equal Access to System Resources:** Basic software should not have exclusive access to system resources or capabilities that are not equally available to third-party apps.
+   - **Absence of Feasible Alternatives:** Situations where no feasible alternative exists. This includes:
+     - **For Digital Platforms:** Prohibit the controlling entity’s products or services if alternatives are available from third parties, except when no feasible alternative exists.
+     - **For Physical Retail Spaces:** Prohibit store-branded products if alternatives are available, except when no feasible alternative exists.
+     - **For Hardware Devices:** Limit pre-installed software and included hardware to functionalities and items for which no feasible alternative exists and are necessary for the device’s operation.
+2. Engage in any practice that unfairly disadvantages competitors on its platform. This includes but is not limited to:
+   - **Exclusionary Practices:** Implementing policies or actions that exclude or limit the presence of competitor products or services when alternatives to the controlling entity’s offerings exist.
+   - **Manipulation of Platform Features:** Unfairly leveraging platform features or resources to benefit the controlling entity’s products or services at the expense of competitors.
+
 
 ### (b) Specific Prohibitions and Clarifications:
 Without limiting the generality of subsection (a):
@@ -32,6 +44,9 @@ Without limiting the generality of subsection (a):
 2. **Prohibition of Exclusive Application Restrictions:** Controlling Entities are prohibited from restricting the installation or use of competitive applications or services that are not essential for the basic hardware functionality of the device.
 3. **Transparency Requirement:** Controlling Entities must provide clear and accessible information regarding any competitive activities within their platform, including any restrictions placed on competitive applications or services.
 4. **Equal Access to Essential Services:** Controlling Entities must ensure equal access to essential platform features and services for all competitors.
+
+
+
 
 ## Section 5: Enforcement and Penalties
 ### (a) Enforcement:
