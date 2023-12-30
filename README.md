@@ -19,7 +19,7 @@ In this Act:
 1. **"Market Platform":** Refers to any physical or digital venue, device, or ecosystem, including but not limited to app stores, e-commerce sites, physical retail spaces, electronic devices, and software ecosystems, where goods or services are offered or accessed. This includes platforms where a controlling entity and/or multiple third-party entities offer or sell goods or services, and platforms or devices where a controlling entity may offer exclusive goods, services, or functionalities.
 2. **"Controlling Entity"**: Refers to any person or entity that has control over a Market Platform.
 3. **"Competitor"**: Refers to any person or entity other than the controlling entity that offers or seeks to offer goods or services on the Market Platform.
-4. **"Open Access":** Refers to the principle of allowing access to a Market Platform for all competitors.
+4. **"Open Access":** Refers to the principle of allowing all entities, including competitors, to access and utilize a Market Platform without undue barriers or discriminatory practices. This principle does not inherently include the full range of competitive restrictions imposed by this act, such as the prohibition of competing on the same platform. Instead, Open Access focuses on ensuring that the platform is accessible and usable by third parties in a fair and non-discriminatory manner, especially during a transitional period before full compliance with the act is required.
 
 ## Section 4: Prohibition of Unfair Competitive Practices
 ### (a) General Prohibition:
@@ -51,8 +51,8 @@ It shall be unlawful for a Controlling Entity of a Market Platform to:
    - If a Controlling Entity uses its proprietary technology or infrastructure (e.g., a charging network) exclusively for its own products or services, and does not allow for any third-party access, it will not be considered a market platform. It may still however be considered a monopoly if it gains excessive market dominance, subjecting it to antitrust regulations, however that falls outside the scope of this Act.
    - If the Controlling Entity opens its proprietary technology or infrastructure to third parties, it becomes a market platform and must comply with the provisions of this Act.
 2. **Incentivizing the Opening of Proprietary Systems:** 
-   - **Exclusive Control Period:** To encourage entities to convert proprietary systems into market platforms, a temporary period of exclusive control may be granted. During this period, the entity may compete on their market platform, however they must demonstrate efforts to compete fairly and prepare the platform for open access.
-   - **Transition to Open Access:** Following the exclusivity period, the Controlling Entity must abide by the this act in full, even if that results in the potential divestiture of the relevant divisions.
+   - **Exclusive Control Period:** During an initial period, entities that have developed proprietary systems may maintain control of their platforms. While they can operate exclusively, they are expected to gradually implement Open Access principles, providing fair and non-discriminatory access to the platform for potential competitors.
+   - **Transition to Full Compliance with the Act:** After the exclusive control period, the Controlling Entity must fully comply with all provisions of this act. This includes ceasing to compete directly with other entities on their Market Platform, where exceptions do not apply. The transition from Open Access to full compliance should be overseen by the appropriate regulatory body to ensure a fair and systematic shift towards a fully competitive market environment.
 
 ### (d) Balancing Innovation and Competition:
 1. **Encouraging Infrastructure Development:** Recognizing the importance of innovation and infrastructure development, this Act aims to balance the need for entities to recoup their investment and incentivize new technologies, while ensuring that these developments do not hinder the growth of competitive markets.
@@ -64,17 +64,10 @@ The Federal Trade Commission (FTC) shall enforce the provisions of this Act.
 
 ### (b) Penalties:
 Violation of any provision of this Act shall subject the Controlling Entity to:
-1. Civil penalties, including fines determined by the severity of the violation, not exceeding $1 million per violation.
-2. Mandatory divestiture of parts of their business if necessary to restore fair competition.
-3. Injunctions or other equitable relief as deemed appropriate by the court.
-
-## Section 6: Exceptions and Exemptions
-### (a) Exceptions:
-This Act shall not apply to:
-1. **Essential Operations Exception:**
-   - **Initial Functionality Inclusion:** Products or services provided by the Controlling Entity that are necessary to use the device or platform in its intended form at the time of purchase. This includes components like game controllers for a gaming console or basic headphones for an MP3 player, which are required to use the device in its most basic intended form at the time of purchase.
-
-
+1. Civil penalties, including fines determined by the severity of the violation. The fines shall not exceed $100 million per violation.
+2. In cases of severe or repeated violations, fines may amount to up to 5% of the company's gross annual earnings.
+3. Mandatory divestiture of parts of their business if necessary to restore fair competition.
+4. Injunctions or other equitable relief as deemed appropriate by the court.
 
 ## Section 6: Exceptions and Exemptions
 ### (a) Exceptions:
