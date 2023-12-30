@@ -1,4 +1,4 @@
-draft proposal v0.0.2
+draft proposal v0.0.3
 
 # Fair Competition in Platform Markets Act 2024
 
@@ -19,6 +19,7 @@ In this Act:
 1. **"Market Platform":** Refers to any physical or digital venue, device, or ecosystem, including but not limited to app stores, e-commerce sites, physical retail spaces, electronic devices, and software ecosystems, where goods or services are offered or accessed. This includes platforms where a controlling entity and/or multiple third-party entities offer or sell goods or services, and platforms or devices where a controlling entity may offer exclusive goods, services, or functionalities.
 2. **"Controlling Entity"**: Refers to any person or entity that has control over a Market Platform.
 3. **"Competitor"**: Refers to any person or entity other than the controlling entity that offers or seeks to offer goods or services on the Market Platform.
+4. **"Open Access":** Refers to the principle of allowing access to a Market Platform for all competitors. During an initial grace period for a newly developed platform, 'Open Access' acknowledges that while the platform is accessible, the controlling entity may retain certain advantages due to their initial investment and the evolving nature of the market. This access should aim to be as fair and reasonable as possible under the circumstances, and is expected to progressively move towards full fairness and non-discrimination as the market matures.
 
 ## Section 4: Prohibition of Unfair Competitive Practices
 ### (a) General Prohibition:
@@ -26,7 +27,7 @@ It shall be unlawful for a Controlling Entity of a Market Platform to:
 1. Compete directly with other entities within its own Market Platform, except in the following situations:
    - **Integral Software and Hardware for Basic Operation:** Software and hardware that are integral to the basic operation of the device, subject to the following conditions:
      - **Limited Scope for Software:** The software must provide only basic functionalities necessary for the operation of the hardware, without advanced features that might compete with third-party apps.
-     - **Basic Hardware Inclusion:** Hardware included with the device must be essential for its immediate functionality (e.g., basic headphones with an MP3 player, a standard stock controller with a gaming console). This does not extend to advanced or premium versions of these hardware items that directly compete with third-party products.
+     - **Basic Hardware Inclusion:** Hardware included with the device must be essential for its immediate functionality (e.g., basic headphones with an MP3 player, tires on a car, a standard controller with a gaming console). This does not extend to advanced or premium versions of these hardware items that directly compete with third-party products.
      - **No Unfair Promotion:** The controlling entity must not unfairly promote or prioritize their basic software or hardware over third-party alternatives.
      - **Equal Access to System Resources:** Basic software should not have exclusive access to system resources or capabilities that are not equally available to third-party apps.
    - **Absence of Feasible Alternatives:** Situations where no feasible alternative exists. This includes:
@@ -37,16 +38,25 @@ It shall be unlawful for a Controlling Entity of a Market Platform to:
    - **Exclusionary Practices:** Implementing policies or actions that exclude or limit the presence of competitor products or services when alternatives to the controlling entity’s offerings exist.
    - **Manipulation of Platform Features:** Unfairly leveraging platform features or resources to benefit the controlling entity’s products or services at the expense of competitors.
 
+### (b) Special Provisions for Emerging Markets and Technologies:
+1. **Initial Development Phase:** A temporary special period will be granted to the Controlling Entity that develops a new market platform, during which they will allowed to compete on that market platform, like an electric vehicle charging network, when no reasonable alternatives exist.
+2. **Proactive Transition to Competitive Market:** The temporary special period will end based on market maturity, the controlling entity’s market share, and other factors; not solely on the emergence of direct competitors on the market platform or other market platforms. This includes:
+   - **Market Maturity Assessment:** The appropriate regulatory body (e.g., Federal Trade Commission) shall periodically assess the market's maturity, considering factors like the controlling entity's market share, the potential for competition, and technological advancements.
+   - **Mandatory Measures for Market Opening:** Depending on the assessment, the Controlling Entity may be required to:
+     - Implement measures to facilitate market entry for new competitors, such as providing access to essential patents under fair, reasonable, and non-discriminatory (FRAND) terms.
+     - Prepare for the potential divestiture of the relevant division if it's determined that the entity's control over the market hinders the development of a competitive landscape.
 
-### (b) Specific Prohibitions and Clarifications:
-Without limiting the generality of subsection (a):
-1. **Necessary for Basic Hardware Functionality:** For the purposes of this Act, products or services deemed 'necessary for the basic operation of the platform or device' are limited to those that are essential for the physical functioning of the device (e.g., operating system, basic input/output systems, essential security features). This does not include applications or services where viable competitive alternatives can exist (e.g., web browsers, email clients).
-2. **Prohibition of Exclusive Application Restrictions:** Controlling Entities are prohibited from restricting the installation or use of competitive applications or services that are not essential for the basic hardware functionality of the device.
-3. **Transparency Requirement:** Controlling Entities must provide clear and accessible information regarding any competitive activities within their platform, including any restrictions placed on competitive applications or services.
-4. **Equal Access to Essential Services:** Controlling Entities must ensure equal access to essential platform features and services for all competitors.
+### (c) Special Provisions for Proprietary Technologies and Infrastructure:
+1. **Exclusive Use vs. Market Platform:** 
+   - If a Controlling Entity like Tesla uses its proprietary technology or infrastructure (e.g., a charging network) exclusively for its own products or services, and does not allow for any third-party access, it will not be considered a market platform. It may still howver be considered a monopoly if it gains excessive market dominance, subjecting it to antitrust regulations, however that falls outside the scope of this Act.
+   - If the Controlling Entity opens its proprietary technology or infrastructure to third parties, it becomes a market platform and must comply with the provisions of this Act.
+2. **Incentivizing the Opening of Proprietary Systems:** 
+   - **Exclusive Control Period:** To encourage entities to convert proprietary systems into market platforms, a temporary period of exclusive control may be granted. During this period, the entity may compete on their market platform, however they must demonstrate efforts to compete fairly and prepare the platform for open access.
+   - **Transition to Open Access:** Following the exclusivity period, the Controlling Entity must abide by the this act in full, even if that results in the potential divestiture of the relevant divisions.
 
-
-
+### (d) Balancing Innovation and Competition:
+1. **Encouraging Infrastructure Development:** Recognizing the importance of innovation and infrastructure development, this Act aims to balance the need for entities to recoup their investment and incentivize new technologies, while ensuring that these developments do not hinder the growth of competitive markets.
+2. **Regulatory Oversight:** The appropriate regulatory body shall have the authority to assess whether a technology or infrastructure has moved beyond the scope of a traditional monopoly and requires the implementation of fair market platform practices.
 
 ## Section 5: Enforcement and Penalties
 ### (a) Enforcement:
