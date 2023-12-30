@@ -73,15 +73,16 @@ Violation of any provision of this Act shall subject the Controlling Entity to:
 This Act shall not apply to:
 1. **Essential Operations Exception:**
    - **Initial Functionality Inclusion:** Products or services provided by the Controlling Entity that are necessary to use the device or platform in its intended form at the time of purchase. This includes components like game controllers for a gaming console or basic headphones for an MP3 player, which are required to use the device in its most basic intended form at the time of purchase.
-   - **Competitive Alternatives:** This exception does not extend to additional, non-essential products or services where competitive alternatives are feasible and practical. For instance, while including a standard game controller or basic headphones is permissible, offering enhanced versions of these accessories that directly compete with third-party products would not be allowed.
+
 
 
 ## Section 6: Exceptions and Exemptions
 ### (a) Exceptions:
 1. **Essential Operations Exception:**
-   - **Basic Functionality Inclusion:** Products or services provided by the Controlling Entity that are required to use the device in its most basic form at the time of purchase. This includes core system applications like a basic camera to make use of a built-in camera, or components like a bluetooth game controller for a game console. However, these inclusion should not possess exclusive access to system capabilities that are not equally available to third-party apps or devices.
-   - **Non-Essential Applications:** This exception does not cover applications where competitive alternatives are available that can provide similar functionalities, and are not required to make use of core intended hardware functionality at time of purchase. These include, but are not limited to, cloud storage services, web browsers, and messaging apps that make use of Internet access, since access to the Internet would imply a reasonable level of access to alternative options.
-   - **User Choice and Default Settings:**  Pre-installed applications should not be given undue advantage in terms of system integration and permissions that are not equally accessible to third-party applications, including as being specified as the default app for services.
+   - **Basic Functionality Inclusion:** Products or services provided by the Controlling Entity that are required to use the device in its most basic intended form at the time of purchase. This includes core system applications like a basic camera to make use of a built-in camera, or components like a bluetooth game controller for a game console. However, these inclusion should not possess exclusive access to system capabilities that are not equally available to third-party apps or devices.
+   - **Competitive Alternatives:** This exception does not extend to additional, non-essential products or services where competitive alternatives are feasible and practical. For instance, while including a standard game controller or basic headphones is permissible, offering enhanced versions of these accessories that directly compete with third-party products would not be allowed.
+   - **Application Availability:** This exception does not cover applications or services that makes use of the Internet, where competitive alternatives providing similar functionalities are reasonably accessible at time of use. This includes, but is not limited to, cloud storage services, web browsers, and messaging apps that make use of Internet access.
+   - **User Choice and Default Settings:**  Pre-installed applications should not be given undue advantage in terms of system integration or permissions that are not equally accessible to third-party applications, including as being specified as the default app for services.
 2. **Public Interest Exception:** Entities or services deemed essential for national security, public safety, or other critical public interests.
 
 ### (b) General Guidelines for Fair Platform Practices:
