@@ -48,7 +48,7 @@ It shall be unlawful for a Controlling Entity of a Market Platform to:
 
 ### (c) Special Provisions for Proprietary Technologies and Infrastructure:
 1. **Exclusive Use vs. Market Platform:** 
-   - If a Controlling Entity like Tesla uses its proprietary technology or infrastructure (e.g., a charging network) exclusively for its own products or services, and does not allow for any third-party access, it will not be considered a market platform. It may still howver be considered a monopoly if it gains excessive market dominance, subjecting it to antitrust regulations, however that falls outside the scope of this Act.
+   - If a Controlling Entity uses its proprietary technology or infrastructure (e.g., a charging network) exclusively for its own products or services, and does not allow for any third-party access, it will not be considered a market platform. It may still howver be considered a monopoly if it gains excessive market dominance, subjecting it to antitrust regulations, however that falls outside the scope of this Act.
    - If the Controlling Entity opens its proprietary technology or infrastructure to third parties, it becomes a market platform and must comply with the provisions of this Act.
 2. **Incentivizing the Opening of Proprietary Systems:** 
    - **Exclusive Control Period:** To encourage entities to convert proprietary systems into market platforms, a temporary period of exclusive control may be granted. During this period, the entity may compete on their market platform, however they must demonstrate efforts to compete fairly and prepare the platform for open access.
