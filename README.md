@@ -58,6 +58,14 @@ It shall be unlawful for a Controlling Entity of a Market Platform to:
 1. **Encouraging Infrastructure Development:** Recognizing the importance of innovation and infrastructure development, this Act aims to balance the need for entities to recoup their investment and incentivize new technologies, while ensuring that these developments do not hinder the growth of competitive markets.
 2. **Regulatory Oversight:** The appropriate regulatory body shall have the authority to assess whether a technology or infrastructure has moved beyond the scope of a traditional monopoly and requires the implementation of fair market platform practices.
 
+### (e) Provisions for Technological Neutrality in Market Platforms:
+1. **Non-Restrictive Technology Policies:** A Controlling Entity of a digital market platform, particularly one with significant market share, is prohibited from imposing policies that unfairly limit or restrict the use of third-party technologies, software engines, or services. This includes:
+   - **Technology and Engine Flexibility:** The act prohibits restrictive practices that mandate the exclusive use of the controlling entity's proprietary technologies or engines across different categories, such as web browsers, app development tools, or digital services.
+   - **Equitable Access to Platform Features:** All third-party products and services must be granted fair and non-discriminatory access to the platform's capabilities and features. This ensures that the controlling entity does not use its platform to unduly favor its proprietary technologies or services.
+
+2. **Transparent and Fair Management of Third-Party Offerings:** The controlling entity must maintain a transparent, consistent, and fair process for the management, approval, and treatment of third-party offerings on its platform. This includes ensuring that the approval process and operational policies are applied uniformly and do not disadvantage third-party products or services in favor of those offered by the controlling entity.
+
+
 ## Section 5: Enforcement and Penalties
 ### (a) Enforcement:
 The Federal Trade Commission (FTC) shall enforce the provisions of this Act.
