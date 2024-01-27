@@ -8,3 +8,5 @@ That said, things that might make it harder for end users to get replacement par
 
 Apple will always find a way to be a fucker.  I can see how Apple will do what it does with Mac OS, where you need your app signed by Apple to get them installable. Apple can pull apps this way, market them as unsafe, and perhaps blackmail payment to maintain "in good standing", else the signing account will be revoked. we'll see tho
 https://nypost.com/2024/01/24/business/apple-plots-fees-restrictions-in-europe-on-downloads-outside-app-store/
+
+Attempts at malicious compliance to the act should be explicitly mentioned, and note that such behaviour will be liable to fines and/or further punishment
