@@ -2,7 +2,7 @@
 
 Capitalism is an economic system characterized by private or corporate ownership of capital goods, investments determined by private decision, and prices, production, and the distribution of goods determined primarily by competition in a free market.
 
-Competition and consumer are two defining aspects of capitalism:
+Open and fair competition, along with consumer choice, are defining aspects of capitalism.
 
 Consumer Choice: Consumers have the freedom to choose from various products and services, influencing what is produced in the economy based on their preferences and willingness to pay.
 
